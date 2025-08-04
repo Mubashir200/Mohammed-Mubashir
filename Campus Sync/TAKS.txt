@@ -1,0 +1,6 @@
+serverside - clientside
+1)HTMl CSS JS----------------> HTML
+2)React					layout
+3)Node JS				css--->resposive
+						JS
+						reactive

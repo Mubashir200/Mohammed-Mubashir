@@ -1,0 +1,58 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    text-align: center;
+}
+.login-container{
+    text-align: center;
+    border: 1px solid black;
+    background-color: white;
+    padding: 0px;
+    height: 500px;
+    margin-bottom: 350px;
+    border-radius: 20px;
+    margin-top: 40px;
+    width: 40%;
+    margin-left: 450px;
+  
+}
+h4{
+    
+    font-size: 40px;
+    font-style: inherit;
+    text-align: center;
+    color: black;
+}
+.login-form{
+    margin-bottom: 50px;
+
+    text-align: center;
+    margin-top: 50px;
+
+}
+form{
+   
+    text-align: left;
+    margin: 10px;
+}
+button{
+    width: 100px;
+    height: 40px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.password-{
+    margin-right: 10px;
+
+    
+}
+input,
+    select{
+        width: 400px;
+        height: 30px;
+    }
+
